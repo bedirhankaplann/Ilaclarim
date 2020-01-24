@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">İlaçlarım</string>
+    <string-array name="ilaclar">
+        <item>TRAJENTA</item>
+        <item>MATOFİN</item>
+        <item>ECOPİRİN</item>
+        <item>ARLEC</item>
+        <item>CANDEXIL</item>
+        <item>ULTROX</item>
+    </string-array>
+    <string-array name="adet">
+        <item>1/4</item>
+        <item>1/2</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+    </string-array>
+</resources>
